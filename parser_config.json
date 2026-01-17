@@ -77,7 +77,7 @@
     },
     {
       "name": "Московский Газоперерабатывающий Завод",
-      "root_url": "https://mgpz.ru/catalog/monogazy/",
+      "root_url": "https://mgpz.ru/catalog/",
       "product_detection": {
         "or": [
           {
